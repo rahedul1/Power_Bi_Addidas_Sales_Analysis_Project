@@ -14,6 +14,7 @@ Based on your analysis, create a dashboard and answer the following business que
 5. Margin Analysis: Evaluate the average margin to understand the overall profitability of sales.
 
 
+
 Solution statement:  Charts Requirements
 
 1.Total Sales by Month (Area Chart)
